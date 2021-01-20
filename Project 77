@@ -1,0 +1,35 @@
+<html>
+<head>
+<tittle>
+ my webpage
+</tittle>
+</head>
+        <body style="text-align: center;">
+               <h1>Open Console </h1>
+                <script>
+                    console.log("Hi I am console screen");
+
+                    var firstname="Tejas";
+
+                    var lastname="Agili";
+
+                    console.log(firstname);
+
+                    console.log(lastname);
+                </script>
+                <p> Microsoft Visual Studio is an integrated development
+                 environment (IDE) from Microsoft. It is used to develop 
+                 computer programs, as well as websites, web apps, web 
+                 services and mobile apps. ... Visual Studio includes a
+                  code editor supporting IntelliSense (the code completion
+                   component) as well as code refactoring.</p>
+
+                   <p> A console is the combination of a monitor and 
+                   keyboard. It is a rudimentary interface in which
+                    the monitor provides the output and the keyboard 
+                    is used for input. While any computer with a 
+                    monitor and keyboard may be considered a console,
+                     the term most often refers to a system used to 
+                     control one or more servers.</p>
+            </body>
+        </html>
